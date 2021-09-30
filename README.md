@@ -54,7 +54,7 @@ mkdir s{1..25}
 
 /home/lee/arte45/logo/mon8.png  =>
 
-/home/yourlogID/arte37/logo/mon8.png
+/home/yourlogID/arte45/logo/mon8.png
 
 
 ```
