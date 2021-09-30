@@ -79,11 +79,11 @@ bash main.sh
 
 
 ### input image1
- <img src="https://github.com/leeseomin/arte37/blob/main/s/hap.png" width="500">
+ <img src="https://github.com/leeseomin/arte45/blob/main/s/IMG_2969.png" width="500">
  
 ### output image1
- <img src="https://github.com/leeseomin/arte37/blob/main/out/hapx37.png" width="2000">
- <img src="https://github.com/leeseomin/arte37/blob/main/out/hapx37c.jpg" width="2000">
+ <img src="https://github.com/leeseomin/arte45/blob/main/out/IMG_2969m3_finger3b_flood_c.png" width="2000">
+ <img src="https://github.com/leeseomin/arte45/blob/main/out/IMG_2969m3_finger3a_flood.png" width="2000">
 
 
  
